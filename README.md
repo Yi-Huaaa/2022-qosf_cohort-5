@@ -29,7 +29,7 @@
 
 
 ## Discussion by brutal force
-* There discussion by brutal force for the classical situation is shown in the **"discu_brufo.pdf"** file.
+* The discussion by brutal force for the classical situation is shown in the **"discu_brufo.pdf"** file.
 
 ## Question
 Again, the **"Report.pdf"** file shows the construction of both quantum circuits in detail. 
