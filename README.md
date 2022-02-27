@@ -8,7 +8,7 @@
 * There is the introduction of the construction of the quantum circuits for both parts in detail in the **"Report.pdf"**.
 * I adopt the "Grover Algorithm" to solve this problem, for the detail introduction of the "Grover Algorithm", please refer to the [Qiskit - Grover Algorithm](https://qiskit.org/textbook/ch-algorithms/grover.html)
 * Hence, the report is focused on the construction of the Oracle function of the Grover Algorithm.
-* You can download the code ("qosf.ipynb" and "qosf_bonus.ipynb") in this repository to run on the IBM jupyterLab.
+* You can download the code ("qosf.ipynb" and "qosf_bonus.ipynb") in this repository to run on the [IBM jupyterLab](https://lab.quantum-computing.ibm.com/user/5eef481099288700193a0d60/lab/tree/qosf_bonus.ipynb?redirects=1).
 
 
 ## Implemetation - Quantum circuit
