@@ -20,9 +20,11 @@
 
 ## Result
 * Original part
-![image](https://github.com/Yi-Huaaa/qosf-task3/blob/main/plot/result.png)
+<!-- ![image](https://github.com/Yi-Huaaa/qosf-task3/blob/main/plot/result.png=40%x) -->
+<div align="center"><img src="https://github.com/Yi-Huaaa/qosf-task3/blob/main/plot/result.png" width="400"/><br/> </div>
 * Bonus part
-![image](https://github.com/Yi-Huaaa/qosf-task3/blob/main/plot/bonus_result.png)
+<!-- ![image](https://github.com/Yi-Huaaa/qosf-task3/blob/main/plot/bonus_result.png) -->
+<div align="center"><img src="https://github.com/Yi-Huaaa/qosf-task3/blob/main/plot/bonus_result.png" width="400"/><br/> </div>
 
 
 ## Discussion by brutal force
