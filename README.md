@@ -1,5 +1,8 @@
 # qosf - cohort 5 - Task 3
 
+## Problem set
+You can view the original problem from the [qosf's monthly challenge of March 2022] (https://github.com/qosf/monthly-challenges/blob/main/challenge-2022.03-mar/challenge-2022.03-mar.ipynb).
+
 ## Brefily Introduction
 * This is the solution repository of **qosf - cohort 5 - Task 3**, including the **original part** and the **bonus part** of the full problem.
 
